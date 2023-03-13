@@ -19,4 +19,9 @@ Feature2()
 	//Sample feature code
 }
 
+important security patch()
+	//patch codeline1
+	//patch codeline2
+}
+
 }
