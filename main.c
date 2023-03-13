@@ -15,5 +15,8 @@ Feature1()
 	//Sample feature Code
 }
 
+Feature2()
+	//Sample feature code
+}
 
 }
